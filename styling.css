@@ -1,0 +1,22 @@
+/* Library css */
+
+.megatron {
+    border-radius: 20px;
+    min-height: 180px;
+    width: 88%;
+    height: fit-content;
+    margin: 0 auto;
+    background-color: rgb(90, 94, 90);
+    padding: 13px 13px;
+}
+
+
+#myElement {
+    transition: box-shadow 0.7s ease;
+}
+
+.shadow {
+    outline: 2px solid #c46767;
+    outline-offset: 5px;
+    animation:  ease-in-out .30s ;
+}
